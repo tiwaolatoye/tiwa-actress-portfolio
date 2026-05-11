@@ -1,0 +1,7 @@
+# Tiwa's full portfolio is kept in the repo but NOT served publicly.
+# To bring the live site back: delete this file, rename portfolio.html -> index.html, redeploy.
+portfolio.html
+styles.css
+website-content.md
+images/
+RESTORE.md
